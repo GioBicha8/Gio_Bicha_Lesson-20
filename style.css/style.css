@@ -5,17 +5,17 @@
   font-family: sans-serif;
 }
 body {
-  background-color: rgb(116, 116, 116);
+  background-color: rgb(2, 10, 58);
 }
-table {
+table,
+div {
   margin-top: 50px;
   text-align: center;
-  background: #333;
+  background: rgba(24, 19, 116, 0.648);
   color: #fff;
-  margin-left: 35%;
+  margin-left: 20%;
 }
- 
- 
+
 #show th,
 #show td {
   padding: 13px;
