@@ -4,7 +4,6 @@ let list3 = [];
 let list4 = [];
 let list5 = [];
 let list6 = [];
- 
 
 let n = 1;
 let x = 0;
@@ -19,8 +18,6 @@ function AddRow() {
   list4[x] = document.getElementById("age").value;
   list5[x] = document.getElementById("ID").value;
   list6[x] = document.getElementById("Phone").value;
-  
- 
 
   let cel1 = NewRow.insertCell(0);
   let cel2 = NewRow.insertCell(1);
